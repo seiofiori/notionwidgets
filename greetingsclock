@@ -4,3 +4,13 @@ if (hrs < 12)
         greet = 'Good Afternoon, Seiori! ♡';
     else if (hrs >= 17 && hrs <= 24)
         greet = 'Good Evening, Seiori! ♡';
+        
+.card {
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    background: #f2d3bc;
+    width: 85vw;
+    color: #080808;
+    display: inline-block;
+    box-shadow: 2px 2px 1px 0px #330835;
+}
